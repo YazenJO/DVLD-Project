@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|e:\\c\u002B\u002B\\c\u002B\u002B\\course no.19 - full real project\\dvld project\\project\\dvld_buisness\\clslocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|e:\\c\u002B\u002B\\c\u002B\u002B\\course no.19 - full real project\\dvld project\\project\\dvld_dataaccess\\clslocaldrivinglicenseapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|e:\\c\u002B\u002B\\c\u002B\u002B\\course no.19 - full real project\\dvld project\\project\\dvld_buisness\\clslicenseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|e:\\c\u002B\u002B\\c\u002B\u002B\\course no.19 - full real project\\dvld project\\project\\dvld_buisness\\clsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|e:\\c\u002B\u002B\\c\u002B\u002B\\course no.19 - full real project\\dvld project\\project\\dvld_buisness\\clsapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|e:\\c\u002B\u002B\\c\u002B\u002B\\course no.19 - full real project\\dvld project\\project\\dvld_buisness\\clslicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|e:\\c\u002B\u002B\\c\u002B\u002B\\course no.19 - full real project\\dvld project\\project\\dvld_buisness\\clsdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|e:\\c\u002B\u002B\\c\u002B\u002B\\course no.19 - full real project\\dvld project\\project\\dvld_buisness\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|e:\\c\u002B\u002B\\c\u002B\u002B\\course no.19 - full real project\\dvld project\\project\\dvld_dataaccess\\clsuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|e:\\c\u002B\u002B\\c\u002B\u002B\\course no.19 - full real project\\dvld project\\project\\dvld_dataaccess\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 465,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsLocalDrivingLicenseApplicationData.cs",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_DataAccess\\clsLocalDrivingLicenseApplicationData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsLocalDrivingLicenseApplicationData.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_DataAccess\\clsLocalDrivingLicenseApplicationData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsLocalDrivingLicenseApplicationData.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwKkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:58:37.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsLocalDrivingLicenseApplication.cs",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsLocalDrivingLicenseApplication.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsLocalDrivingLicenseApplication.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsLocalDrivingLicenseApplication.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsLocalDrivingLicenseApplication.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAkwHIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:58:01.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsLicenseClass.cs",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsLicenseClass.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsLicenseClass.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsLicenseClass.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsLicenseClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:57:58.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsApplication.cs",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsApplication.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsApplication.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsApplication.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:57:54.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsApplicationType.cs",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsApplicationType.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsApplicationType.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsApplicationType.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsApplicationType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:57:52.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsLicense.cs",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsLicense.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsLicense.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsLicense.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsLicense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:57:44.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsDriver.cs",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsDriver.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsDriver.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsDriver.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsDriver.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:57:29.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsUser.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsUser.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_Buisness\\clsUser.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsUser.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:34:56.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsUserData.cs",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_DataAccess\\clsUserData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsUserData.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_DataAccess\\clsUserData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsUserData.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowCIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:32:58.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsPersonData.cs",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_DataAccess\\clsPersonData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsPersonData.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD_DataAccess\\clsPersonData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsPersonData.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:32:18.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
+              "ToolTip": "E:\\C\u002B\u002B\\C\u002B\u002B\\Course No.19 - Full Real Project\\DVLD Project\\Project\\DVLD\\Login\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Login\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:00:13.791Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
